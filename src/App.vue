@@ -46,4 +46,6 @@ export default {
 .hello-world .hello-world__message {
   color: #2c3e50;
 }
+
+/* 変更 */
 </style>
