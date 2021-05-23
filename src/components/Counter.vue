@@ -26,5 +26,7 @@ export default {
   align-items: center;
   justify-content: center;
   background-color: lightgreen;
+
+  /* color */
 }
 </style>
